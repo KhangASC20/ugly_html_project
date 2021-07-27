@@ -1,0 +1,45 @@
+h1{
+    border: 10px solid blue;
+    background: blue;
+    text-align: center;
+    color: orange;
+}
+
+div #starters_image_div{
+    border: 5px solid blue;
+    background: blue;
+}
+html{
+    background-color: black;
+    color: white;
+}
+
+#starters_image_div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32.5%;
+  border: 10px solid blue;
+}
+
+.pokemon_images{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+div #bulbasaur_container{
+    border: 10px solid green;
+    background: green;
+}
+
+div #charmander_container{
+    border: 10px solid orange;
+    background: orange;
+}
+
+div #squirtle_container{
+    border: 10px solid lightblue;
+    background: lightblue;
+}
