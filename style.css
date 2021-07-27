@@ -30,16 +30,16 @@ html{
 }
 
 div #bulbasaur_container{
-    border: 10px solid green;
+    border: 5px solid yellow;
     background: green;
 }
 
 div #charmander_container{
-    border: 10px solid orange;
+    border: 5px solid yellow;
     background: orange;
 }
 
 div #squirtle_container{
-    border: 10px solid lightblue;
+    border: 5px solid white;
     background: lightblue;
 }
